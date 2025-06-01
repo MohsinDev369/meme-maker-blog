@@ -2,7 +2,7 @@
 title: "The Psychology Behind Viral Memes: What Makes People Share"
 date: "2024-06-02"
 excerpt: "Discover the psychological triggers that make memes go viral and learn how to create shareable content that resonates with your audience."
-author: "Alex Thompson"
+author: "MohsinDev369"
 tags: ["meme-psychology", "viral-content", "social-media", "content-creation"]
 featured_image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=630&fit=crop&auto=format"
 featured_image_alt: "Colorful illustration showing viral social media content with engagement icons"
