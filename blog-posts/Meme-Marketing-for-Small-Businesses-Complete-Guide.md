@@ -25,7 +25,6 @@ But memes? They stop the scroll. They get shared. They make people remember you.
 - **Zero experience required** (seriously, your nephew can help)
 - **Instant brand personality** that big corporations struggle to fake
 
-![Meme marketing ROI chart](https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=400&fit=crop&auto=format "Chart showing meme marketing return on investment for small businesses")
 
 ## The Small Business Meme Framework
 
@@ -251,6 +250,4 @@ Your customers are scrolling right now. Give them something worth sharing.
 ---
 
 **Related Posts:**
-- [The Psychology Behind Viral Memes: What Makes People Share](../blog/viral-memes-psychology)
-- [Platform-Specific Meme Strategies That Actually Work](../blog/platform-meme-strategies)
-- [Free Meme Templates for Local Businesses](../blog/free-meme-templates)
+- [The Psychology Behind Viral Memes What Makes People Share](../blog/2024-06-01-The-Psychology-Behind-Viral-Memes-What-Makes-People-Share)
