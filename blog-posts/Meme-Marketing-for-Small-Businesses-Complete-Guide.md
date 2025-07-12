@@ -243,7 +243,7 @@ The best part about meme marketing? You don't need a huge budget or years of exp
 
 Start small, stay authentic, and remember – even if a meme flops, you're still ahead of every business too scared to try.
 
-**Want to create professional-looking memes without the learning curve?** [Try our AI-powered meme generator](../create) that helps small businesses create engaging, brand-appropriate memes in minutes, not hours.
+**Want to create professional-looking memes without the learning curve?** [Try our AI-powered meme generator](../create) that helps small businesses create engaging, brand-appropriate memes in minutes, not hours..
 
 Your customers are scrolling right now. Give them something worth sharing.
 
