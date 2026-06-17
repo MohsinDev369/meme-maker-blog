@@ -4,11 +4,11 @@ date: "2026-05-31"
 excerpt: "Everything about Gru's Plan meme — where it comes from in Despicable Me, why the four-panel format is so irresistible, and the best examples from 2024–2026."
 author: "Meme0"
 tags: ["gru's plan meme", "gru meme", "despicable me meme", "meme explained", "meme history", "meme generator"]
-featured_image: "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=1200&h=630&fit=crop&auto=format"
-featured_image_alt: "Animated villain character making a plan - concept art style"
+featured_image: "https://meme0-images.mohsinakrambukhari.workers.dev/grus-plan.jpg"
+featured_image_alt: "The Gru's Plan meme template"
 ---
 
-![Gru's Plan meme](https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=1200&h=400&fit=crop&auto=format "Gru's Plan meme explained")
+![Gru's Plan meme](https://meme0-images.mohsinakrambukhari.workers.dev/grus-plan.jpg "Gru's Plan meme explained")
 
 The Gru's Plan meme has one of the tightest structures of any format on the internet. Four panels. A plan that looks coherent. Then panel 3 reveals the plan was never going to work. Panel 4 is Gru realizing this.
 

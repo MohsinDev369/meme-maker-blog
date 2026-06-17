@@ -4,11 +4,11 @@ date: "2026-05-31"
 excerpt: "The complete story behind the Woman Yelling at Cat meme — who the woman is, who the cat is, why it works so well, and the best examples from across the internet."
 author: "Meme0"
 tags: ["woman yelling at cat meme", "smudge cat meme", "meme history", "cat meme", "meme explained", "meme generator"]
-featured_image: "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1200&h=630&fit=crop&auto=format"
-featured_image_alt: "Cat sitting calmly at a dinner table, the inspiration for the famous meme"
+featured_image: "https://meme0-images.mohsinakrambukhari.workers.dev/woman-yelling-at-cat.jpg"
+featured_image_alt: "The Woman Yelling at Cat meme template"
 ---
 
-![Woman Yelling at Cat meme origin](https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=1200&h=400&fit=crop&auto=format "The Woman Yelling at Cat meme explained")
+![Woman Yelling at Cat meme origin](https://meme0-images.mohsinakrambukhari.workers.dev/woman-yelling-at-cat.jpg "The Woman Yelling at Cat meme explained")
 
 Two panels. One woman, gesturing and yelling. One cat, sitting at a dinner table with the energy of someone who has heard this exact argument before and has no intention of engaging with it.
 

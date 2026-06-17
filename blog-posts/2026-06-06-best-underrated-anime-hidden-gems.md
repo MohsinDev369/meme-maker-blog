@@ -4,11 +4,11 @@ date: "2026-06-06"
 excerpt: "No One Piece. No Naruto. No Death Note. This is a list of anime that rarely come up in conversation but absolutely deserve your time — personal picks, no ranking."
 author: "Meme0"
 tags: ["underrated anime", "anime hidden gems", "anime recommendations", "best anime", "anime list"]
-featured_image: "https://images.unsplash.com/photo-1541562232579-512a21360020?w=1200&h=630&fit=crop&auto=format"
-featured_image_alt: "Dark cinematic scene representing underrated anime hidden gems"
+featured_image: "https://www.meme0.com/memes/Frieren-holding-a-book-1.jpg"
+featured_image_alt: "Frieren holding a book, a contemplative anime moment"
 ---
 
-![Best underrated anime hidden gems](https://images.unsplash.com/photo-1541562232579-512a21360020?w=1200&h=400&fit=crop&auto=format "Best underrated anime you need to watch")
+![Best underrated anime hidden gems](https://www.meme0.com/memes/Frieren-holding-a-book-1.jpg "Best underrated anime you need to watch")
 
 Every anime recommendation list starts the same way. One Piece. Naruto. Death Note. Attack on Titan. You already know those. You've either watched them or made peace with skipping them.
 

@@ -4,11 +4,11 @@ date: "2026-05-31"
 excerpt: "Everything about the Drake Hotline Bling meme — where it came from, why it works, and the best examples from 2024-2026. Plus how to make your own in under a minute."
 author: "Meme0"
 tags: ["drake meme", "hotline bling meme", "drake meme generator", "meme history", "meme explained"]
-featured_image: "https://images.unsplash.com/photo-1598550476439-6a1c670e435a?w=1200&h=630&fit=crop&auto=format"
-featured_image_alt: "Classic internet meme culture - someone scrolling through memes on a phone"
+featured_image: "https://www.meme0.com/memes/drake.jpg"
+featured_image_alt: "The Drake Hotline Bling meme template"
 ---
 
-![Drake Hotline Bling meme](https://images.unsplash.com/photo-1598550476439-6a1c670e435a?w=1200&h=400&fit=crop&auto=format "The Drake Hotline Bling meme explained")
+![Drake Hotline Bling meme](https://www.meme0.com/memes/drake.jpg "The Drake Hotline Bling meme explained")
 
 The Drake meme has been running since 2016 and shows no sign of dying. It's one of the most flexible, most used, and most recognizable formats on the internet. Here's everything about it.
 
