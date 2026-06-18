@@ -114,6 +114,20 @@ If you're tired of isekai that hand their protagonists everything from the start
 
 ---
 
+## Log Horizon
+
+Thirty thousand Japanese players get sucked into the MMO they're currently logged into, Elder Tale, and find out it's now their reality. Sounds like every other "trapped in a game" isekai. It isn't.
+
+Log Horizon skips the panic phase almost entirely. The main character, Shiroe, is a min-maxing strategist who immediately starts treating the situation as a systems problem: how does combat actually work now, what are the new rules of death and resurrection, how do you build an economy and a government for thousands of stranded players who used to just be usernames. It's less about fighting monsters and more about politics, logistics, and city-building inside a game world that suddenly has real consequences.
+
+If you like protagonists who win through planning and social engineering instead of power-ups, this is for you. Shiroe spends entire episodes setting up guild alliances and negotiating instead of swinging a sword, and it's consistently the most engaging part of the show.
+
+Three seasons so far, slower pace, very talky. Not for people who want nonstop action, but excellent for anyone who wants an isekai that actually thinks through its own premise.
+
+[Watch the trailer →](https://www.youtube.com/watch?v=IG1VhJ75r8k)
+
+---
+
 ## More Coming
 
 This list isn't finished. More picks coming soon — same rule applies, nothing mainstream, nothing you've already been told to watch a hundred times.
