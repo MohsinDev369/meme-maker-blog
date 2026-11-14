@@ -4,6 +4,7 @@ date: "2026-06-06"
 excerpt: "No One Piece. No Naruto. No Death Note. This is a list of anime that rarely come up in conversation but absolutely deserve your time — personal picks, no ranking."
 author: "Meme0"
 tags: ["underrated anime", "anime hidden gems", "anime recommendations", "best anime", "anime list"]
+pinned: true
 featured_image: "https://www.meme0.com/memes/Frieren-holding-a-book-1.jpg"
 featured_image_alt: "Frieren holding a book, a contemplative anime moment"
 ---
@@ -125,6 +126,18 @@ If you like protagonists who win through planning and social engineering instead
 Three seasons so far, slower pace, very talky. Not for people who want nonstop action, but excellent for anyone who wants an isekai that actually thinks through its own premise.
 
 [Watch the trailer →](https://www.youtube.com/watch?v=IG1VhJ75r8k)
+
+---
+
+## Delicious in Dungeon
+
+A party of adventurers gets wiped out by a red dragon deep in a dungeon. Laios, the leader, escapes, but his sister Falin is eaten before she can be pulled out. Resurrection magic exists, but the party has no money left for supplies, and Falin doesn't have long before she's digested for good.
+
+So Laios makes a call that sounds like a joke: go back down immediately and survive on whatever lives in the dungeon. Monsters included. Every episode is part fantasy adventure, part cooking show, with real attention to how you would prepare a giant scorpion or a walking mushroom.
+
+The food is the hook, but the worldbuilding is why it stays good. The dungeon has its own ecology, its own rules, and a history that slowly turns out to matter. The cast is a big part of it too: Marcille the anxious mage, Chilchuck the tired locksmith, and Senshi, a dwarf who has been cooking in the dungeon for years and treats it like a craft.
+
+It's funny, warm, and sneakily emotional when it needs to be. Adapted from Ryoko Kui's manga by Studio Trigger. One season, 24 episodes, and a story that actually has a point to make about eating, living and dying.
 
 ---
 
