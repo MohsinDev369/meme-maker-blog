@@ -21,6 +21,8 @@ One more thing before the list: **the order means nothing.** Number 1 is not bet
 
 ## Monster
 
+![Monster anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/19-kJhwsB0Z97tL.jpg "Monster (2004)")
+
 Monster is a 2004 Madhouse anime that finally found a wider audience when it landed on Netflix. If you missed it, here's the setup: a brilliant surgeon saves a young boy's life against hospital orders, sacrificing his career in the process. Years later, that same boy has grown up to become one of Europe's most wanted serial killers.
 
 The story follows the doctor who can't escape the guilt of what he created, and the hunt across Germany and Eastern Europe that consumes his life.
@@ -34,6 +36,8 @@ If you've only ever watched action-heavy anime, this will feel completely differ
 ---
 
 ## High School of the Dead
+
+![High School of the Dead anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/8074-g8bVkL09nkdw.jpg "High School of the Dead (2010)")
 
 Let's get this out of the way: yes, it has fan service. A lot of it. That's not why it's on this list.
 
@@ -49,6 +53,8 @@ One season, 12 episodes. The manga was left unfinished after the author, Daisuke
 
 ## Psycho-Pass
 
+![Psycho-Pass anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/13601-YrCmS1oY4uBZ.jpg "Psycho-Pass (2012)")
+
 Set in a future Japan where a government system called the Sibyl System continuously scans every citizen's psychological state and assigns them a "crime coefficient" — a numerical likelihood of committing a crime. If your number gets too high, law enforcement can act on you before you've done anything.
 
 Season 1 is as tight as anime writing gets. A young detective joins the unit that enforces Sibyl's judgments and slowly starts questioning whether the system is right, or whether a society that trades freedom for safety is worth defending.
@@ -61,6 +67,8 @@ It's part Minority Report, part noir, entirely its own thing. The antagonist in 
 
 ## The Heroic Legend of Arslan
 
+![The Heroic Legend of Arslan anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20935-WGAGPNZHbbEy.jpg "The Heroic Legend of Arslan (2015)")
+
 Based on novels by Yoshiki Tanaka — the same author behind the legendary Legend of the Galactic Heroes — Arslan is a fantasy war epic that doesn't get nearly the attention it deserves.
 
 Prince Arslan grows up sheltered and idealistic. When his kingdom falls in a brutal military betrayal, he has to rebuild from nothing, with a small group of loyal followers, against enemies that vastly outnumber him. No chosen-one shortcuts. The story is about strategy, politics, and a young ruler figuring out what kind of king he actually wants to be.
@@ -72,6 +80,8 @@ Two seasons, adapted from a portion of the novels. The story isn't fully told in
 ---
 
 ## Akame ga Kill!
+
+![Akame ga Kill! anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/20613-CoEQF4qKiWDX.jpg "Akame ga Kill! (2014)")
 
 A naive kid from a poor village travels to the capital to make money for his struggling hometown. Within days he accidentally falls into the orbit of Night Raid — a group of revolutionary assassins working to bring down a massively corrupt empire from within.
 
@@ -87,6 +97,8 @@ Dark fantasy, brutal action, 24 episodes.
 
 ## Jormungand
 
+![Jormungand anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/12413-zOxRG3P6jgvs.jpg "Jormungand (2012)")
+
 Koko Hekmatyar is an international arms dealer. She travels the world selling weapons to armies, militias, and governments, accompanied by a team of ex-military bodyguards who are almost as dangerous as she is. One of those bodyguards is a child soldier named Jonah who hates weapons and the people who sell them — and works for her anyway.
 
 There are no clean heroes here. The show doesn't pretend the arms trade is anything other than what it is, and that moral greyness is what makes it interesting. Koko has a larger plan behind all of it that unfolds over two seasons, and it's genuinely surprising when it lands.
@@ -98,6 +110,8 @@ Sharp writing, great action sequences, and a main character who is one of the mo
 ---
 
 ## Grimgar of Fantasy and Ash
+
+![Grimgar of Fantasy and Ash anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/21428-WXeLTDwfmKI5.jpg "Grimgar of Fantasy and Ash (2016)")
 
 Most isekai anime are power fantasies. A regular person gets transported to a fantasy world, discovers they're secretly overpowered, and starts dominating.
 
@@ -117,6 +131,8 @@ If you're tired of isekai that hand their protagonists everything from the start
 
 ## Log Horizon
 
+![Log Horizon anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/17265-53eBCC34SKyM.jpg "Log Horizon (2013)")
+
 Thirty thousand Japanese players get sucked into the MMO they're currently logged into, Elder Tale, and find out it's now their reality. Sounds like every other "trapped in a game" isekai. It isn't.
 
 Log Horizon skips the panic phase almost entirely. The main character, Shiroe, is a min-maxing strategist who immediately starts treating the situation as a systems problem: how does combat actually work now, what are the new rules of death and resurrection, how do you build an economy and a government for thousands of stranded players who used to just be usernames. It's less about fighting monsters and more about politics, logistics, and city-building inside a game world that suddenly has real consequences.
@@ -131,6 +147,8 @@ Three seasons so far, slower pace, very talky. Not for people who want nonstop a
 
 ## Delicious in Dungeon
 
+![Delicious in Dungeon anime key art](https://s4.anilist.co/file/anilistcdn/media/anime/banner/153518-7uRvV7SLqmHV.jpg "Delicious in Dungeon (2024)")
+
 A party of adventurers gets wiped out by a red dragon deep in a dungeon. Laios, the leader, escapes, but his sister Falin is eaten before she can be pulled out. Resurrection magic exists, but the party has no money left for supplies, and Falin doesn't have long before she's digested for good.
 
 So Laios makes a call that sounds like a joke: go back down immediately and survive on whatever lives in the dungeon. Monsters included. Every episode is part fantasy adventure, part cooking show, with real attention to how you would prepare a giant scorpion or a walking mushroom.
@@ -138,6 +156,10 @@ So Laios makes a call that sounds like a joke: go back down immediately and surv
 The food is the hook, but the worldbuilding is why it stays good. The dungeon has its own ecology, its own rules, and a history that slowly turns out to matter. The cast is a big part of it too: Marcille the anxious mage, Chilchuck the tired locksmith, and Senshi, a dwarf who has been cooking in the dungeon for years and treats it like a craft.
 
 It's funny, warm, and sneakily emotional when it needs to be. Adapted from Ryoko Kui's manga by Studio Trigger. One season, 24 episodes, and a story that actually has a point to make about eating, living and dying.
+
+---
+
+*Artwork courtesy of [AniList](https://anilist.co) and the respective studios.*
 
 ---
 
